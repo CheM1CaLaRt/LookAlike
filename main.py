@@ -9,7 +9,7 @@ import json
 import pprint
 
 # Ваш токен бота
-BOT_TOKEN = "7352605219:AAFZyO9u6Ren-oI1vn8w_KGlZg3JzxvA5iU"
+BOT_TOKEN = "#"
 
 # Инициализация бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
